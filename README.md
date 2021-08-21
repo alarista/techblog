@@ -23,7 +23,6 @@ An application that allows tech enthusiasts to share their thoughts with their c
 * Clone the repository
 * Open MySQL Workbench and create the database provided in the schema
 * Run `npm install`
-* Run `npm run seed`
 * Run `node server.js`
 
 ## Author
