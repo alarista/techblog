@@ -1,7 +1,7 @@
 # techblog
 
 ## Description
-An application that allows fintess enthusiasts to manager their workouts.
+An application that allows tech enthusiasts to share their thoughts with their community.
 
 ## Table of Contents
 
@@ -11,24 +11,20 @@ An application that allows fintess enthusiasts to manager their workouts.
 * Credits and Shoutouts
 * Application working video
 
-## Usage
-a) Clone the repository to your computer.
-
-b) In the terminal write `npm install`
-
-c) Then run `npm run seed`
-
-d) Finally write `node server.js`
-
-The app should appear on Port 8000
 
 ## Building blocks 
-Javascript
-HTML
-CSS
-Node 
-Express
-MongoDB
+* Javascript
+* NodeJs
+* MySQL2
+* Sequelize 
+* Express 
+
+## Usage 
+* Clone the repository
+* Open MySQL Workbench and create the database provided in the schema
+* Run `npm install`
+* Run `npm run seed`
+* Run `npm start`
 
 ## Author
 Alsy Arista
