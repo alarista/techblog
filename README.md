@@ -24,7 +24,7 @@ An application that allows tech enthusiasts to share their thoughts with their c
 * Open MySQL Workbench and create the database provided in the schema
 * Run `npm install`
 * Run `npm run seed`
-* Run `npm start`
+* Run `node server.js`
 
 ## Author
 Alsy Arista
