@@ -5,11 +5,11 @@ An application that allows fintess enthusiasts to manager their workouts.
 
 ## Table of Contents
 
--Usage
--Building blocks
--Author
--Credits and Shoutouts
--Application working video
+* Usage
+* Building blocks
+* Author
+* Credits and Shoutouts
+* Application working video
 
 ## Usage
 a) Clone the repository to your computer.
